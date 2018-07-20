@@ -32,7 +32,7 @@ sc = SparkContext("local", "Simple App")
 '''
 You must set these values for the job to run.
 '''
-APIKEY="AIzaSyBTnQJ7UOR39qZScjjs_l59BLk4f5eTaN4"   # CHANGE
+APIKEY="<API_KEY_HERE>"   # CHANGE
 print APIKEY
 PROJECT_ID="qwiklabs-gcp-39467cf02b6af620"  # CHANGE
 print PROJECT_ID 
