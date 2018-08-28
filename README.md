@@ -1,4 +1,7 @@
-# gcp-data-engineer
- My code and other files from pursuing <a href="https://cloud.google.com/certification/data-engineer" target=_>Google Cloud Platform Professional Data Engineer Certification</a>.
+# coursera-gcp-de
+ My code and other files from completed Coursera GCP courses for data engineers.
 
-For more info: https://andrewrgoss.com/2018/gcp-professional-data-engineer-certification
+For more info: 
+
+* https://andrewrgoss.com/2018/coursera--gcp-big-data-and-ml-fundamentals
+* https://andrewrgoss.com/2018/coursera--leveraging-unstructured-data-on-gcp
